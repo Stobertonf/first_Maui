@@ -30,7 +30,7 @@
 
 ## Prazo
 
-⚡ Este projeto foi iniciado no dia 01/07/2022, porém, ainda está sendo desenvolvido. No entanto, em breve espero trazer muitas novidades para este repositório !!!
+⚡ Este projeto foi iniciado no dia 08/07/2022, porém, ainda está sendo desenvolvido. No entanto, em breve espero trazer muitas novidades para este repositório !!!
 
 ## Imagens
 
