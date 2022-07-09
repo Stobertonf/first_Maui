@@ -37,7 +37,7 @@
 :camera: Imagens do projeto. Em breve novas imagens vão ser disponibilizadas.
 
 <p float="left" align="center">
-   <img src=https://ibb.co/Z2RTnMq/Maui.jpg width="40%"/>
+   [<img src=https://ibb.co/Z2RTnMq/Maui.jpg width="40%"/>](https://i.ibb.co/TT1PHYC/Maui.jpg)
    <img src=https://i.ibb.co/vDQ4nG0/Perfil-Login.jpg width="40%" />
    <img src=https://i.ibb.co/s66z5xP/Maui.jpg width="40%" />
  
