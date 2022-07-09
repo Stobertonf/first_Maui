@@ -26,7 +26,7 @@
 
 ## Foco
 
-😊 O do projeto é aprender a utilizar esse framework.
+😊 O objetivo do projeto é aprender a utilizar esse framework.
 
 ## Prazo
 
