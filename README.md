@@ -4,13 +4,17 @@
 
 👋 Olá, seja bem vindo ao meu primeiro projeto com .Net Maui.
 
+## Aprendizado
+
+😲 Antes de mais nada, gostaria de deixar claro que estou aprendendo esse framework. Sendo assim, caso você possa corrigir algum ponto abaixo ou até mesmo me ensinar, fique a vontade.
+
 ## O que é o .Net Maui?
 
 😃 O .Net Maui nada mais é do que um framework no .Net 6, open-source. Com ele, conseguimos criar um projeto para Android, IOS, Aplicativos Windows e MacOS com uma interface única e apenas um código.
 
 ## O .Net Maui é para:
 
-😲 O .Net Maui é para desenvolvedores que desejam desenvolver aplicativos multiplataforma em XAML e C#. Podemos ter layout e o design da interface do usuário compartilhado entre plataformas. Além disso, podemos compartilhar código, testes e lógica de negócio entre as plataformas.
+😱 O .Net Maui é para desenvolvedores que desejam desenvolver aplicativos multiplataforma em XAML e C#. Podemos ter layout e o design da interface do usuário compartilhado entre plataformas. Além disso, podemos compartilhar código, testes e lógica de negócio entre as plataformas.
 
 ## Projeto
 
