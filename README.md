@@ -14,7 +14,7 @@
 
 ## O .Net Maui é para:
 
-😱 O .Net Maui é para desenvolvedores que desejam desenvolver aplicativos multiplataforma em XAML e C#. Podemos ter layout e o design da interface do usuário compartilhado entre plataformas. Além disso, podemos compartilhar código, testes e lógica de negócio entre as plataformas.
+😱 O .Net Maui é para profissionais que desejam desenvolver aplicativos multiplataforma em XAML e C#. Podemos ter layout e o design da interface do usuário compartilhado entre plataformas. Além disso, podemos compartilhar código, testes e lógica de negócio entre as plataformas.
 
 ## Projeto
 
